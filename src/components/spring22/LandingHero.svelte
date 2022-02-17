@@ -92,6 +92,7 @@
         color: var(--text-primary);
         align-self: flex-end;
         margin: 10px;
+        line-height: 60%
     }
 
    

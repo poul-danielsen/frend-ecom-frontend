@@ -4,7 +4,6 @@
     import { cart } from "../../stores/cart"
 
     export let name;
-    export let id;
     export let description;
     export let price;
     export let variants;
