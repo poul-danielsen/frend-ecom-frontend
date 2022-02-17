@@ -1,0 +1,1 @@
+export const apiUri = "http://frend-ecom-api.azurewebsites.net/";
