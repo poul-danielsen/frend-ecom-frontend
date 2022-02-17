@@ -55,6 +55,8 @@ Using svelte has been a delight. I'm finding it very quick to get to a point of 
 The amount of boilerplate code is kept to a minimum, barring in particular the use of reactive variables in CSS. However there is probably a package that remedies this.
 I found that with this short a project, going hunting for packages to solve small nuisances wasn't a judicious use of time. 
 
+Most importantly, I think a lot of the positive structure that svelte naturally enforces transfers well to other frameworks, so even if I wind up working primarily in frameworks like React, it will still benefit from the time spent here. 
+
 If working with a more built out production API, it would also become a priority to look into sveltekit's server side rendering, for semi-dynamic content. 
 This would drastically reduce the amount of momentary flicker as data loads in, and reduce loading times generally. Though that said, this is chasing fairly marginal gains, as it's already fairly snappy, which is helped by being able to prefetch content on link hover. 
 
